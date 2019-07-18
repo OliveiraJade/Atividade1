@@ -59,15 +59,14 @@
 ### Histórico Profissional
 
 - **Rodonaves Transportes e Encomendas LTDA** – Outubro de 2016- Atual. 
+
 **Função**: Auxiliar Administrativo 
  
 - **Rodonaves Transportes e Encomendas LTDA** – Maio de 2015 á Setembro de 2016. 
+
 **Função**: Aprendiz 
  
 - **Trans São José de Capivari** – Abril de 2014 á Março de 2015. 
+
 **Função**: Aprendiz 
 
-
-```
-Debug.log("teste");
-```
