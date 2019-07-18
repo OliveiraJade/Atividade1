@@ -28,18 +28,46 @@
 
 - Experiência de 2 anos na área de compras, cotação, arquivo de documentos, conferência, contato com fornecedor, atendimento Telefônico, ordem de serviço, adiantamento e acerto de viagem, emissão e nota fiscal, orçamento(análise e desvio de meta), 5S e suporte operacional.
 
-- Atualmente tendo experiência com as linguagens de programação: C#, html.
+- Atualmente tendo experiência com as linguagens de programação: C#, java script, html.
 
 - Experiência de 1 ano com desenho técnico, Autocad, medidas e perspectiva. 
 
-### Recursos
-1. Sprites: [Game Art 2D](https://www.gameart2d.com)
+### Formação Acadêmica
 
-![Pudim](http://pudim.com.br/pudim.jpg)
+- Técnico em Programação de Jogos Digitais – Senac Americana (2018) 
 
->Se a vida não ficar fácil, trata de ficar forte.
+- Ensino Médio Completo 
 
-*Exemplo de comando:*
+### Cursos Profissionalizantes
+
+- Curso de Gestão de Compras – LearnCafe (2018) 
+
+- Inglês Particular 
+
+- Lógica de Programação – Senai Americana (2018) 
+
+- Excel Avançado – Senai Americana (2018) 
+
+- Manutenção de Microcomputadores – (Hardware e Software) – Senac Americana (2018) 
+
+- Design de Interiores – (Autocad, Desenho Técnico, medias, perspectiva). – (2017) 
+
+- Desenvolvimento Pessoal – Guarda Mirim (2014) 
+
+- Curso de Informática – (Word, Excel, Power Point, Internet) – Guarda Mirim (2014) 
+
+### Histórico Profissional
+
+- **Rodonaves Transportes e Encomendas LTDA** – Outubro de 2016- Atual. 
+**Função**: Auxiliar Administrativo 
+ 
+- **Rodonaves Transportes e Encomendas LTDA** – Maio de 2015 á Setembro de 2016. 
+**Função**: Aprendiz 
+ 
+- **Trans São José de Capivari** – Abril de 2014 á Março de 2015. 
+**Função**: Aprendiz 
+
+
 ```
 Debug.log("teste");
 ```
