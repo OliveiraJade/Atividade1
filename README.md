@@ -8,14 +8,15 @@ Estado Civil: Solteira
 
 E-mail: oliveiradepaulajaqueline@outlook.com
 
-Tel: (19) 3458-7633 (19) 3458-9184 Cel: (19) 99544-9810 
+Tel: (19) 3458-7633 / (19) 3458-9184  / Cel: (19) 99544-9810 
 
 CNH: A/B 
 
 
 
 ### Objetivo
-1. Criar um sistema em que um personagem fica em cima de uma plataforma. Esse projeto foi construído em 2D.
+ 
+>> **Estágio em Programação**
 
 ### Elementos utilizados
 1. Rigidbody
