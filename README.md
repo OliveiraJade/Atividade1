@@ -16,7 +16,7 @@ CNH: A/B
 
 ### Objetivo
  
->> **Estágio em Programação**
+> **Estágio em Programação**
 
 ### Elementos utilizados
 1. Rigidbody
