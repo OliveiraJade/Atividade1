@@ -18,9 +18,13 @@
  
 > **Estágio em Programação**
 
-### Elementos utilizados
-1. Rigidbody
-2. BoxCollider
+### Resumo das Qualificações
+
+. Profissional com 4 anos de experiência na área administrativa;
+. Experiência profissional em empresa de grande porte; 
+. Experiência de 3 anos no pacote office (Word, Power Point, Excel);
+. Experiência de 2 anos na área de compras, cotação, arquivo de documentos, conferência, contato com fornecedor, atendimento Telefônico, ordem de serviço, adiantamento e acerto de viagem, emissão e nota fiscal, orçamento(análise e desvio de meta), 5S e suporte operacional. . Atualmente tendo experiência com as linguagens de programação: C#, html.
+. Experiência de 1 ano com desenho técnico, Autocad, medidas e perspectiva. 
 
 ### Recursos
 1. Sprites: [Game Art 2D](https://www.gameart2d.com)
