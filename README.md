@@ -6,7 +6,7 @@ Nascimento: 28/01/1997
 
 Estado Civil: Solteira 
 
-[E-mail]: oliveiradepaulajaqueline@outlook.com
+E-mail: oliveiradepaulajaqueline@outlook.com
 
 Tel: (19) 3458-7633 (19) 3458-9184 Cel: (19) 99544-9810 
 
